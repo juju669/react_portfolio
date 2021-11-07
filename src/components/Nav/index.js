@@ -25,7 +25,7 @@ function Navigation(props) {
                                 <a className="nav-link" href="#" onClick={() => setCurrentPage(pages[0])} >About</a>
                             </li>
                             <li class="nav-item">
-                                <a className="nav-link" href="#" onClick={() => setCurrentPage(pages[1])} >Project</a>
+                                <a className="nav-link" href="#" onClick={() => setCurrentPage(pages[1])} >Projects</a>
                             </li>
                             <li class="nav-item">
                                 <a className="nav-link" href="#" onClick={() => setCurrentPage(pages[2])} >Contact</a>
