@@ -43,10 +43,6 @@ By Julian Wilson
   - [Author](#Author)
   - [Deployment URL](#DeploymentURL)
   
-  
-  <br/>
-    <br/>
-  <br/>
 
   
   ## <div>  About <img align="right" src=""/></div>
