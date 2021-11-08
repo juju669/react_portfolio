@@ -7,6 +7,10 @@ function Contact() {
         e.preventDefault();
     };
 
+    function show_alert() {
+        alert("xxxxxx");
+      }
+
     return (
         <div className="container">
             <div className="row justify-content-md-center">
@@ -27,7 +31,10 @@ function Contact() {
                             <label htmlFor="InputMessage1" class="form-label">Message</label>
                             <textarea type="text" class="form-control" id="InputMessage1" />
                         </div>
+                        
                         <button type="submit" class="btn btn-primary">Submit</button>
+                        
+                        
                     </form>
 
                 </div>
